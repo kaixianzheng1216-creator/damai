@@ -17,7 +17,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.pig4cloud</groupId>
-		<artifactId>pig</artifactId>
+		<artifactId>damai</artifactId>
 		<version>${revision}</version>
 	</parent>
 
